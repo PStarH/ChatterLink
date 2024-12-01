@@ -1,8 +1,7 @@
 # Secure P2P Chat Application
 
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepo/CI)
-![License](https://img.shields.io/github/license/yourusername/yourrepo)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+![License](https://img.shields.io/github/license/PStarH/ChatterLink)
+![GitHub Stars](https://img.shields.io/github/stars/PStarH/ChatterLink?style=social)
 
 A privacy-focused, peer-to-peer chat application built with modern web technologies and advanced cryptographic features. Designed to ensure secure and anonymous communication between users without relying on centralized servers.
 
