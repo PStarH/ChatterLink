@@ -1,5 +1,6 @@
 # Secure P2P Chat Application
 
+
 ![License](https://img.shields.io/github/license/PStarH/ChatterLink)
 ![GitHub Stars](https://img.shields.io/github/stars/PStarH/ChatterLink?style=social)
 
@@ -225,12 +226,12 @@ In an era where digital privacy is paramount, the Secure P2P Chat Application of
 *The welcome screen allows users to enter their nickname, choose privacy levels, and decide whether to join anonymously.*
 
 ### 2. Chat Interface
-![Screenshot 2](./screenshot/screenshot2.png)
+![Screenshot 2](./screenshot/screenshot3.png)
 
 *The main chat interface where users can send and receive messages, share files, and view security indicators.*
 
 ### 3. Settings Panel
-![Screenshot 3](./screenshot/screenshot3.png)
+![Screenshot 3](./screenshot/screenshot2.png)
 
 *The settings panel for customizing themes, message lifetimes, and privacy options.*
 
